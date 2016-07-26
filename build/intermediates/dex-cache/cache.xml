@@ -2,60 +2,60 @@
 <items version="2" >
 
     <item
-        jar="/Users/xinran/mygithub/GamePlane/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/jars/classes.jar"
+        jar="/Users/xinran/mygithub/QxFlyPlaneGame/app/build/intermediates/exploded-aar/com.android.support/design/23.2.1/jars/classes.jar"
         jumboMode="false"
         revision="23.0.1"
-        sha1="e4d0cbb0b999604b349062f0214a0a228a7fd151">
-        <dex dex="/Users/xinran/mygithub/GamePlane/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.2.1_9487d04a8e8e5f3529353e3b68daefc4e2019a99.jar" />
+        sha1="72961d8b453b46e277702f18de9d210bc019e36e">
+        <dex dex="/Users/xinran/mygithub/QxFlyPlaneGame/app/build/intermediates/pre-dexed/debug/com.android.support-design-23.2.1_4b607c5024eb8767b38ac001fe899ccfb784ea58.jar" />
     </item>
     <item
-        jar="/Users/xinran/mygithub/GamePlane/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.2.1/jars/classes.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="3469cb457f10f74c28cbc05f069b6c894f6cbdd0">
-        <dex dex="/Users/xinran/mygithub/GamePlane/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-23.2.1_d551b828816c1d11d47d461d698d6cd6819a1809.jar" />
-    </item>
-    <item
-        jar="/Users/xinran/mygithub/GamePlane/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.1/jars/libs/internal_impl-23.2.1.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="607a3d0b8013b4ccbfeb0b7cb293351994e021fb">
-        <dex dex="/Users/xinran/mygithub/GamePlane/app/build/intermediates/pre-dexed/debug/internal_impl-23.2.1_ed3c2b549e01a2b560ad9fedf8d43edbe74a0ba0.jar" />
-    </item>
-    <item
-        jar="/Users/xinran/mygithub/GamePlane/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.2.1/jars/classes.jar"
+        jar="/Users/xinran/mygithub/QxFlyPlaneGame/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.2.1/jars/classes.jar"
         jumboMode="false"
         revision="23.0.1"
         sha1="673d77a5bbddd766037f088e775df525c46407f0">
-        <dex dex="/Users/xinran/mygithub/GamePlane/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-23.2.1_4b4ab8618456a02937c66bbc07cdf1ac93ea1813.jar" />
-    </item>
-    <item
-        jar="/Users/xinran/mygithub/GamePlane/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.2.1/jars/classes.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="e3885783ff8926ed9e2fdcd16816c2e1e73e7aee">
-        <dex dex="/Users/xinran/mygithub/GamePlane/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-23.2.1_9b0f5bcbdb6afdd68d8e7ceecf7ddc4f6e97911f.jar" />
-    </item>
-    <item
-        jar="/Users/xinran/mygithub/GamePlane/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.1/jars/classes.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="3be474b1b21b31cf2fa93fe6bd641ae108d96452">
-        <dex dex="/Users/xinran/mygithub/GamePlane/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.2.1_ba6ad344b82c8ecec36b58a752cdc4e1c9065ef1.jar" />
+        <dex dex="/Users/xinran/mygithub/QxFlyPlaneGame/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-23.2.1_a2baaef61f1f61244e9b07c957f44182754e3172.jar" />
     </item>
     <item
         jar="/Users/xinran/android-sdk-macosx/extras/android/m2repository/com/android/support/support-annotations/23.2.1/support-annotations-23.2.1.jar"
         jumboMode="false"
         revision="23.0.1"
         sha1="ccb693bc0774fcb637246f7360de25b4af7df318">
-        <dex dex="/Users/xinran/mygithub/GamePlane/app/build/intermediates/pre-dexed/debug/support-annotations-23.2.1_c47bd2de9d87cfc8ede9c62f7d1bf738125f223d.jar" />
+        <dex dex="/Users/xinran/mygithub/QxFlyPlaneGame/app/build/intermediates/pre-dexed/debug/support-annotations-23.2.1_c47bd2de9d87cfc8ede9c62f7d1bf738125f223d.jar" />
     </item>
     <item
-        jar="/Users/xinran/mygithub/GamePlane/app/build/intermediates/exploded-aar/com.android.support/design/23.2.1/jars/classes.jar"
+        jar="/Users/xinran/mygithub/QxFlyPlaneGame/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/jars/classes.jar"
         jumboMode="false"
         revision="23.0.1"
-        sha1="72961d8b453b46e277702f18de9d210bc019e36e">
-        <dex dex="/Users/xinran/mygithub/GamePlane/app/build/intermediates/pre-dexed/debug/com.android.support-design-23.2.1_144cc77259eb60182a48f096e82095f9e2605420.jar" />
+        sha1="e4d0cbb0b999604b349062f0214a0a228a7fd151">
+        <dex dex="/Users/xinran/mygithub/QxFlyPlaneGame/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.2.1_c736489569c85a188d6ea7e93556c01d83b7fe90.jar" />
+    </item>
+    <item
+        jar="/Users/xinran/mygithub/QxFlyPlaneGame/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="e3885783ff8926ed9e2fdcd16816c2e1e73e7aee">
+        <dex dex="/Users/xinran/mygithub/QxFlyPlaneGame/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-23.2.1_1c02f8fdda8df4c6d2d74b9914664b5a96699288.jar" />
+    </item>
+    <item
+        jar="/Users/xinran/mygithub/QxFlyPlaneGame/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.1/jars/libs/internal_impl-23.2.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="607a3d0b8013b4ccbfeb0b7cb293351994e021fb">
+        <dex dex="/Users/xinran/mygithub/QxFlyPlaneGame/app/build/intermediates/pre-dexed/debug/internal_impl-23.2.1_211ca1e235135713caa86896506945e4e4c2325c.jar" />
+    </item>
+    <item
+        jar="/Users/xinran/mygithub/QxFlyPlaneGame/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="3469cb457f10f74c28cbc05f069b6c894f6cbdd0">
+        <dex dex="/Users/xinran/mygithub/QxFlyPlaneGame/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-23.2.1_ba1e305988890ba4cfc6a2962bdd2f562a62b55d.jar" />
+    </item>
+    <item
+        jar="/Users/xinran/mygithub/QxFlyPlaneGame/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="3be474b1b21b31cf2fa93fe6bd641ae108d96452">
+        <dex dex="/Users/xinran/mygithub/QxFlyPlaneGame/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.2.1_6b8326e2cfa2e14ba1f467353991ac34e349ed0b.jar" />
     </item>
 
 </items>

@@ -4,6 +4,8 @@
 2016 7 26：
       CustomClickView自定义了点击事件比如长按，单双击等。
 
+2016 7 26：
+      canvas包中加入画各种图形和Bitmap的，主要是练习Canvas画布DrawXXX。
 
 游戏说明
 ----
