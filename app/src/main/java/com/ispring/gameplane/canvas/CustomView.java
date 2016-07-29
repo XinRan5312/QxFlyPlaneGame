@@ -19,7 +19,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 
-public class MyView extends View {
+public class CustomView extends View {
     private float textHeight;
     private float fontSize = getResources().getDimensionPixelSize(R.dimen.default_font_size);
     private TextPaint paint;
@@ -83,17 +83,17 @@ public class MyView extends View {
         }
     }
 
-    public MyView(Context context) {
+    public CustomView(Context context) {
         super(context);
         init(null, 0);
     }
 
-    public MyView(Context context, AttributeSet attrs) {
+    public CustomView(Context context, AttributeSet attrs) {
         super(context, attrs);
         init(attrs, 0);
     }
 
-    public MyView(Context context, AttributeSet attrs, int defStyle) {
+    public CustomView(Context context, AttributeSet attrs, int defStyle) {
         super(context, attrs, defStyle);
         init(attrs, defStyle);
     }

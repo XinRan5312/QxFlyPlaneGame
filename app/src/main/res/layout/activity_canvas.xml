@@ -5,7 +5,7 @@
     android:layout_height="match_parent"
     tools:context=".MainActivity">
 
-    <com.ispring.gameplane.canvas.MyView
+    <com.ispring.gameplane.canvas.CustomView
         android:id="@+id/myView"
         android:layout_width="match_parent"
         android:layout_height="match_parent"

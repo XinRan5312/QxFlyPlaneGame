@@ -7,6 +7,9 @@
 2016 7 26：
       canvas包中加入画各种图形和Bitmap的，主要是练习Canvas画布DrawXXX。
 
+2016 7 29：
+      加入ModleActivity用来得到手机型号尺寸等相关信息。
+
 游戏说明
 ----
 

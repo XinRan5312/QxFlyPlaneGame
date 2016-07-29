@@ -11,29 +11,29 @@ import com.ispring.gameplane.R;
 
 public class CanvasActivity extends Activity {
 
-    private MyView myView = null;
+    private CustomView customView = null;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_canvas);
-        myView = (MyView)findViewById(R.id.myView);
+        customView = (CustomView)findViewById(R.id.myView);
         Bitmap bitmap = BitmapFactory.decodeResource(getResources(), R.drawable.android);
-        myView.setBitmap(bitmap);
+        customView.setBitmap(bitmap);
 
         Intent intent = getIntent();
         if(intent != null){
-            MyView.DrawMode drawMode = MyView.DrawMode.valueOf(intent.getIntExtra("drawMode", 0));
-            myView.setDrawMode(drawMode);
+            CustomView.DrawMode drawMode = CustomView.DrawMode.valueOf(intent.getIntExtra("drawMode", 0));
+            customView.setDrawMode(drawMode);
         }
     }
 
     @Override
     protected void onDestroy() {
         super.onDestroy();
-        if(myView != null){
-            myView.destroy();
-            myView = null;
+        if(customView != null){
+            customView.destroy();
+            customView = null;
         }
     }
 }
